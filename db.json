@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "cahier",
+      "price": "600",
+      "quantity": "25",
+      "selected": true,
+      "available": "true"
+    },
+    {
+      "id": 3,
+      "name": "crayon",
+      "price": "100",
+      "quantity": 25,
+      "selected": true,
+      "available": "true"
+    },
+    {
+      "id": 4,
+      "name": "taille-crayon",
+      "price": "50",
+      "quantity": 22,
+      "selected": false,
+      "available": "false"
+    },
+    {
+      "id": 6,
+      "name": "Marqueurs",
+      "price": "400",
+      "quantity": 20,
+      "selected": false,
+      "available": "false"
+    },
+    {
+      "id": 7,
+      "name": "sacs",
+      "price": "4000",
+      "selected": true,
+      "quantity": 90,
+      "available": "true"
+    },
+    {
+      "id": 8,
+      "name": "compas",
+      "price": "300",
+      "quantity": 40,
+      "selected": false,
+      "available": "true"
+    },
+    {
+      "name": "bic",
+      "price": "150",
+      "quantity": "8",
+      "selected": true,
+      "available": true,
+      "id": 9
+    },
+    {
+      "id": "10",
+      "name": "gomme",
+      "price": "200",
+      "quantity": "800",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
